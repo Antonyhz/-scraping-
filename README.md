@@ -12,3 +12,4 @@ Se usó Python, GeoPandas, Folium y MarkerCluster para mostrar información deta
 - Dirección, horarios, accesibilidad, wifi, sitio web y más.
 
 🔗 [Ver mapa interactivo (HTML)](link_al_HTML_tras_subirlo)
+![image](https://github.com/user-attachments/assets/a2889d29-5d0f-4907-9ab3-31e4fb67fa17)
