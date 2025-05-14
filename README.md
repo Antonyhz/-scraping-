@@ -11,5 +11,5 @@ Se usó Python, GeoPandas, Folium y MarkerCluster para mostrar información deta
 📊 Estadísticas incluidas:
 - Dirección, horarios, accesibilidad, wifi, sitio web y más.
 
-🔗 [Ver mapa interactivo (HTML)](link_al_HTML_tras_subirlo)
+🔗 [Ver mapa interactivo (HTML)](scraping_y_análisis_espacial (1).ipynb)
 ![image](https://github.com/user-attachments/assets/a2889d29-5d0f-4907-9ab3-31e4fb67fa17)
